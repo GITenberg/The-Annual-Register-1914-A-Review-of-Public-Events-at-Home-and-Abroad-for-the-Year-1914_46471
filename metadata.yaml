@@ -1,9 +1,8 @@
 _repo: The-Annual-Register-1914-A-Review-of-Public-Events-at-Home-and-Abroad-for-the-Year-1914_46471
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46471/46471-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46471-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46471#The-Annual-Register-1914-A-Review-of-Public-Events-at-Home-and-Abroad-for-the-Year-1914
 gutenberg_issued: '2014-08-01'
 gutenberg_type: Text
 identifiers:
